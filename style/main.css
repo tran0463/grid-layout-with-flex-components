@@ -5,6 +5,7 @@ body {
 .emojis {
     display: grid;
     gap: 10px; 
+    grid-template-columns: 417px 417px;
 }
 /* base 27 lines of code */
 .emoji:nth-child(2){
