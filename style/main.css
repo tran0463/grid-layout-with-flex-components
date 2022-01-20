@@ -2,9 +2,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   color: #222;
 }
+
 .emojis {
     display: grid;
-    gap: 10px; 
+    gap: 16px; 
     grid-template-columns: 417px 417px;
 }
 /* base 27 lines of code */
